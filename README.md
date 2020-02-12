@@ -1,2 +1,2 @@
-# RajeshS
-ALL About Excel &amp; Acess VBA and DAX
+# ExCel-Master
+ALL About Excel Worksheet Formula, VBA and DAX
