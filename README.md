@@ -1,2 +1,2 @@
 # Excel-Master
-This reposatory consists solved issues aLL About Excel Worksheet Formula. 
+This repository consists solved issues,, aLL about Excel Worksheet formula. 
