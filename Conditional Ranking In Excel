@@ -1,0 +1,3 @@
+Formula in H4: =RANK(G4,G4:G9)						
+						
+Formula in I4: =IF(F4<>$J$2,SUMPRODUCT(($F$4:$F$9<>"")+0,(G4<$G$4:$G$9)+0)+1,"")						
