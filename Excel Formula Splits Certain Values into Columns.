@@ -1,0 +1,5 @@
+=IFERROR(IF($I$1>=ROWS($A$1:A1),INDEX($J$2:$J$27,(COLUMNS($A$1:A1))*$I$1-($I$1-ROWS($A$1:A1))),""),"")
+
+
+N.B. Source data in Column is J, in range j2:j27 (is editable).
+Cell I1 has Number, specifies that how may values fall into next columns like 3 ro 4 (is also ediatble).
